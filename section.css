@@ -1,0 +1,30 @@
+.conversions {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 23px;
+  padding-top: 36px;
+  padding-bottom: 36px;
+}
+
+.length-sec,
+.volume-sec,
+.mass-sec {
+  background-color: white;
+  text-align: center;
+  width: 95%;
+  height: 108.57px;
+  color: #5a537b;
+  border-radius: 4.68077px 0px 0px 0px;
+  max-width: 500px;
+}
+
+.conversions p {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  text-align: center;
+  color: #353535;
+}
